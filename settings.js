@@ -19,11 +19,11 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94711421243']
-global.premium = ['94711421243']
-global.ownernomer = '94711421243'
-global.ownername = 'Dark Alpha'
-global.botname = 'Bixby MD'
+global.owner = ['919142294671']
+global.premium = ['919142294671']
+global.ownernomer = '919142294671'
+global.ownername = 'BEROJGAR YT'
+global.botname = 'GARENA FF'
 global.footer = ' Qᴜᴇᴇɴ ʙɪxʙʏ ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ.'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
